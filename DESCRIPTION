@@ -1,0 +1,11 @@
+Package: ColStatA
+Type: Package
+Title: StatA Color Palette
+Version: 0.1.2
+Author: Benjamin Marti
+Maintainer: Benjamin Marti <benjamin.marti@bs.ch>
+Description: StatA Color Palette for R
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
